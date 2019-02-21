@@ -1,2 +1,3 @@
 h:\documents\visual studio 2015\Projects\VierGewinntHost\VierGewinntHost\bin\Debug\VierGewinntHost.exe.config
 h:\documents\visual studio 2015\Projects\VierGewinntHost\VierGewinntHost\obj\Debug\VierGewinntHost.csprojResolveAssemblyReference.cache
+H:\Documents\GitHub\viergewinnt\VierGewinntHost\VierGewinntHost\bin\Debug\VierGewinntHost.exe.config
